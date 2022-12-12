@@ -4,7 +4,7 @@
 ### About Me
 ![Programming](https://img.shields.io/badge/programming-C/C++-blue) ![Programming](https://img.shields.io/badge/programming-python-green) ![OS](https://img.shields.io/badge/OS-GNU\Linux-red) 
 
-I am System Administrator and Network Engineer, currently doing my bachelors degree from [Chandigarh University](chuchd.in).
+I wanted to be System Administrator and Network Engineer, currently doing my bachelors degree from [Chandigarh University](chuchd.in).
 I am privacy concerned that why i like free and open source projects mostly linux source, i want to contribute something to linux community.
 
 > By the way *"i use Arch"*
@@ -29,6 +29,6 @@ I am privacy concerned that why i like free and open source projects mostly linu
 
 [Linkedin](https://www.linkedin.com/in/ram-79bd589231)
 
-[Blog](youtube.com/watch?v=p7YXXieghto)  (please don't check it)
+[Blog](https://youtube.com/watch?v=p7YXXieghto)  (please don't check it)
 
 
