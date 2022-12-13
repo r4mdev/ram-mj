@@ -16,19 +16,19 @@ I am privacy concerned that why i like free and open source projects mostly linu
 
 ### Favourites
  
- - movies and shows
-	    - Stranger Things
-	    - Mr. Robot (all time favourite)
-	    - Avatar2 (I am waiting...)
-	    - Avengers: Endgame (last fight)
-	    > **Note:** if you know any good movies or shows please let me i will defently watch them. 
+- movies and shows
+  - Stranger Things
+  - Mr. Robot (all time favourite)
+  - Avatar2 (I am waiting...)
+  - Avengers: Endgame (last fight)
+> **Note:** if you know any good movies or shows please let me i will defently watch them. 
 - Music
-	    - Anirudh ravichander
-	    - Billie Elish (not really)
+  - Anirudh ravichander
+  - Billie Elish (not really)
 - Characters
-        - Gilfoyle - from silion valley
-        - Elliot - from Mr. Robot
-        - Steve - from Stranger Things
+  - Gilfoyle - from silion valley
+  - Elliot - from Mr. Robot
+  - Steve - from Stranger Things
 
 ### Contact Me📫 
 > How to reach me ...
