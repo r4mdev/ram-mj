@@ -10,18 +10,26 @@ I am privacy concerned that why i like free and open source projects mostly linu
 > By the way *"i use Arch"*
 - I’m interested in mostly C\C++, Python, and bash.
 - And system administration and networking, some interst in infrastructure engineering.
-
 -  I’m currently learning, i like security so, i am learning some key points about cyber security industry. I think i am mostly inspired by hacking show Mr. Robot.
- ### Favourites
+> NVIM config: [config](dotfiles/init.vim)
+>
+
+### Favourites
+ 
  - movies and shows
-	- Stranger Things
-	 - Mr. Robot (all time favourite)
-	 - Avatar2 (I am waiting...)
-	 - Avengers: Endgame (last fight)
-	 > **Note:** if you know any good movies or shows please let me i will defently watch them. 
+	    - Stranger Things
+	    - Mr. Robot (all time favourite)
+	    - Avatar2 (I am waiting...)
+	    - Avengers: Endgame (last fight)
+	    > **Note:** if you know any good movies or shows please let me i will defently watch them. 
 - Music
-	- Anirudh ravichander
-	- Billie Elish (not really)
+	    - Anirudh ravichander
+	    - Billie Elish (not really)
+- Characters
+        - Gilfoyle - from silion valley
+        - Elliot - from Mr. Robot
+        - Steve - from Stranger Things
+
 ### Contact Me📫 
 > How to reach me ...
 > 
