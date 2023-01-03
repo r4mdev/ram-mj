@@ -7,7 +7,7 @@
 I wanted to be System Administrator and Network Engineer, currently doing my bachelors degree from [Chandigarh University](chuchd.in).
 I am privacy concerned that why i like free and open source projects mostly linux source, i want to contribute something to linux community.
 
-> By the way *"i use Arch"*
+> By the way *"i use Manjaro"*
 - I’m interested in mostly C\C++, Python, and bash.
 - And system administration and networking, some interst in infrastructure engineering.
 -  I’m currently learning, i like security so, i am learning some key points about cyber security industry. I think i am mostly inspired by hacking show Mr. Robot.
@@ -39,4 +39,4 @@ I am privacy concerned that why i like free and open source projects mostly linu
 
 [Blog](https://youtube.com/watch?v=p7YXXieghto)  (please don't check it)
 
-
+> I need peace
